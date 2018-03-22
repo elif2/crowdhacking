@@ -1,6 +1,6 @@
 //var banderole ;
 var blason
-
+//tabimages
 var tabimages = [];
 var idx = 0;
 var nbImg = 5;
